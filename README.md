@@ -10,8 +10,8 @@ authors : A.POIZAT - C.VANDENPUTTE
 ## GTZAN_Music_classifier.ipynb
 
 - Implementation of a neural network architecture and its training one different datasets.
-- Implementation of a dataset expansion script (adding songs and features to the dataset)
 - Evaluation of the quantitative and qualitative performance of the trained models.
+- Implementation of a dataset expansion script (adding songs and features to the dataset)
 
 ## Data
 
